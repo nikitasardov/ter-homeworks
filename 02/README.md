@@ -176,11 +176,11 @@ ubuntu@fhm193eu86vvmofvke93:~$ curl ifconfig.me
 
 - скриншот ЛК Yandex Cloud с созданной ВМ, где видно внешний ip-адрес;
 
-![](https://downloader.disk.yandex.ru/preview/ed4c8c94bf420298740cff17dac41c5c6726a68ca7032a04922d242d3cb150ad/6876e609/4arDOFAR33vYiva03KqiYSAvGOa-4k5RaWHU8_Rd9gQaRGSc68IIU2xyDeG_dyzCVrqDvWk-2Ap-G_yf4fmP3A%3D%3D?uid=0&filename=yc.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
+![](https://i.postimg.cc/zB4dmbNc/yc.png)
 
 - скриншот консоли, curl должен отобразить тот же внешний ip-адрес;
 
-![](https://downloader.disk.yandex.ru/preview/9a9bc008621da74ca66235a51080403d374fcbc9ae757906efd69530d0bf70c5/6876e6b7/P3orqcTXauB-vlphms175tVIqY5fn6znI_a_EUsO0qNMD7HsxkIlR9S6xBctlRvrRZT3f9nr_hA15vDZ9Av8Wg%3D%3D?uid=0&filename=curl.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
+![](https://i.postimg.cc/KcLfkYxm/curl.png)
 
 - ответы на вопросы.
 ```
@@ -284,7 +284,7 @@ yandex_compute_instance.platform: Creation complete after 49s [id=fhmcdnpinkcl0t
 Apply complete! Resources: 5 added, 0 changed, 0 destroyed.
 ai@ai:/var/www/study/netology/devops/devops-netology/cloud-infr-hw/ter-homeworks/02/src (main)$: 
 ```
-![](https://downloader.disk.yandex.ru/preview/4f8c4c965d98100cf439f4e530dd59d4ef5fc4d206b4e91410609c9b27c1b36e/6877706f/i-BaICSTo_b-SszVX7-lxpArBwNNTn3SSgG84qfXr13SG2mGJHNKvPsM5wWQg_7W2SA83x7kt63sNBaoALr0qg%3D%3D?uid=0&filename=zone.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
+![](https://i.postimg.cc/SK3LRBPX/zone.png)
 
 ### Задание 4
 
