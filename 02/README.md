@@ -180,7 +180,7 @@ ubuntu@fhm193eu86vvmofvke93:~$ curl ifconfig.me
 
 - скриншот консоли, curl должен отобразить тот же внешний ip-адрес;
 
-![](https://i.postimg.cc/KcLfkYxm/curl.png)
+![](https://i.postimg.cc/KcLfkYxm/curl.png?t)
 
 - ответы на вопросы.
 ```
