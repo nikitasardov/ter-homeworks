@@ -175,9 +175,13 @@ ubuntu@fhm193eu86vvmofvke93:~$ curl ifconfig.me
 В качестве решения приложите:
 
 - скриншот ЛК Yandex Cloud с созданной ВМ, где видно внешний ip-адрес;
+
 ![](https://downloader.disk.yandex.ru/preview/ed4c8c94bf420298740cff17dac41c5c6726a68ca7032a04922d242d3cb150ad/6876e609/4arDOFAR33vYiva03KqiYSAvGOa-4k5RaWHU8_Rd9gQaRGSc68IIU2xyDeG_dyzCVrqDvWk-2Ap-G_yf4fmP3A%3D%3D?uid=0&filename=yc.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
+
 - скриншот консоли, curl должен отобразить тот же внешний ip-адрес;
+
 ![](https://downloader.disk.yandex.ru/preview/9a9bc008621da74ca66235a51080403d374fcbc9ae757906efd69530d0bf70c5/6876e6b7/P3orqcTXauB-vlphms175tVIqY5fn6znI_a_EUsO0qNMD7HsxkIlR9S6xBctlRvrRZT3f9nr_hA15vDZ9Av8Wg%3D%3D?uid=0&filename=curl.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
+
 - ответы на вопросы.
 ```
 preemptible это прерываемая ВМ. Позволяет экономить при обучении. (А еще можно с помощью этой настройки имитировать внезапное падение серверов при тестировании надежности системы.)
